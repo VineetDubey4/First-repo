@@ -144,3 +144,5 @@ def game_loop():
 
 if __name__ == "__main__":
     game_loop()
+
+#the gamified versio of snake and its food
